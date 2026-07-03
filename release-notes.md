@@ -33,6 +33,7 @@
 
 ### Internal
 
+* ⬆️ Update issue-manager to 0.8.1. PR [#313](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/313) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update latest-changes to 0.6.1. PR [#311](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/311) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Simplify pull request workflow triggers. PR [#308](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/308) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update setup-python pin comment to 6.2.0. PR [#307](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/307) by [@tiangolo](https://github.com/tiangolo).
