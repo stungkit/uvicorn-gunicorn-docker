@@ -33,6 +33,7 @@
 
 ### Internal
 
+* 🔧 Fix Docker action pin version comments. PR [#316](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/316) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix latest-changes checkout target. PR [#315](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/315) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update issue-manager to 0.8.1. PR [#313](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/313) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update latest-changes to 0.6.1. PR [#311](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/311) by [@tiangolo](https://github.com/tiangolo).
