@@ -33,6 +33,7 @@
 
 ### Internal
 
+* 🔥 Remove the old Latest Changes workflow. PR [#321](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/321) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade latest-changes to 0.7.1. PR [#320](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/320) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Fix Docker action pin version comments. PR [#316](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/316) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix latest-changes checkout target. PR [#315](https://github.com/tiangolo/uvicorn-gunicorn-docker/pull/315) by [@tiangolo](https://github.com/tiangolo).
